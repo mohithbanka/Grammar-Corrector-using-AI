@@ -1,0 +1,19 @@
+{
+  "name": "ai-grammar-corrector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "server":"nod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "node-fetch": "^3.3.2"
+  }
+}
